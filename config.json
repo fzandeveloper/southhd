@@ -87,87 +87,94 @@
     ]
   },
   {
-    "title":"Twitter",
-    "drawable":"",
-    "submenu":"Follow Us",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"Twitter",
-        "provider":"twitter",
+        "title":"Goldmines",
+        "drawable":"",
+        "submenu":"South HD - All In One",
+        "iap":false,
+        "provider":"youtube",
         "arguments":[
-          "Android"
+          "UCyoXW-Dse7fURq30EWl_CUA",
+          "channel"
         ]
-      }
-    ]
-  },
-  {
-    "title":"Instagram",
-    "drawable":"",
-    "submenu":"Follow Us",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"Instagram",
-        "provider":"instagram",
+   },
+   {
+        "title":"Aditya Movies",
+        "drawable":"",
+        "submenu":"South HD - All In One",
+        "iap":false,
+        "provider":"youtube",
         "arguments":[
-          "17841402834084629"
+          "UCX_uPA_dGf7wXjuMEaSKLJA",
+          "channel"
         ]
-      }
-    ]
-  },
-  {
-    "title":"Facebook",
-    "drawable":"",
-    "submenu":"Follow Us",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"Facebook",
-        "provider":"facebook",
+   },
+   {
+        "title":"WAM India",
+        "drawable":"",
+        "submenu":"South HD - All In One",
+        "iap":false,
+        "provider":"youtube",
         "arguments":[
-          "307700939773381"
+          "UCt7_pnSRPKU3bu2GqmgH8gQ",
+          "channel"
         ]
-      }
-    ]
-  },
-  {
-    "title":"Codefree4u",
-    "drawable":"",
-    "submenu":"Other",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"Latest",
-        "provider":"wordpress",
+   },
+   {
+        "title":"Selectfix",
+        "drawable":"",
+        "submenu":"South HD - All In One",
+        "iap":false,
+        "provider":"youtube",
         "arguments":[
-          "https://codefree4u.com"
+          "UC_D-oB4mVrFV__cY-99L-3w",
+          "channel"
         ]
-      },
-      {
-        "title":"Android Apps",
-        "provider":"wordpress",
+   },
+   {
+        "title":"Cinekorn",
+        "drawable":"",
+        "submenu":"South HD - All In One",
+        "iap":false,
+        "provider":"youtube",
         "arguments":[
-          "https://codefree4u.com","android app"
+          "UCFk2qpStVlJTkgedostU4kQ",
+          "channel"
         ]
-      },
-      {
-        "title":"Scripts",
-        "provider":"wordpress",
+   },
+   {
+        "title":"RK Duggal",
+        "drawable":"",
+        "submenu":"South HD - All In One",
+        "iap":false,
+        "provider":"youtube",
         "arguments":[
-          "https://codefree4u.com","scripts"
+          "UCjBwQ6M9QyCgO5Pp-TQRFUA",
+          "channel"
         ]
-      },
-      {
-        "title":"Plugins",
-        "provider":"wordpress",
+   },
+   {
+        "title":"AD Wise Media",
+        "drawable":"",
+        "submenu":"South HD - All In One",
+        "iap":false,
+        "provider":"youtube",
         "arguments":[
-          "https://codefree4u.com","plugins"
+          "UCSx_w4q5PkAOg9i45uMFHmA",
+          "channel"
         ]
-      }
-    ]
-  },
-  {
+   },
+   {
+        "title":"Zee Action Channel",
+        "drawable":"",
+        "submenu":"South HD - All In One",
+        "iap":false,
+        "provider":"youtube",
+        "arguments":[
+          "UCLJIMy2wrWsLuPKJxU-a_YQ",
+          "channel"
+        ]
+   },
+   {
     "title":"Settings",
     "drawable":"",
     "submenu":"Other",
