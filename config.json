@@ -1,7 +1,7 @@
 [
   {
     "title":"Home",
-    "drawable":"",
+    "drawable":"home",
     "submenu":"South HD - All In One",
     "iap":false,
     "tabs":[
@@ -73,7 +73,7 @@
   },
   {
     "title":"Categories",
-    "drawable":"",
+    "drawable":"category",
     "submenu":"South HD - All In One",
     "iap":false,
     "tabs":[
@@ -87,96 +87,136 @@
     ]
   },
   {
-        "title":"Goldmines",
-        "drawable":"",
-        "submenu":"South HD - All In One",
-        "iap":false,
+    "title":"Goldmines",
+    "drawable":"letterg",
+    "submenu":"All Channels",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"",
         "provider":"youtube",
         "arguments":[
           "UCyoXW-Dse7fURq30EWl_CUA",
           "channel"
         ]
-   },
-   {
-        "title":"Aditya Movies",
-        "drawable":"",
-        "submenu":"South HD - All In One",
-        "iap":false,
+      }
+    ]
+  },
+  {
+    "title":"Aditya Movies",
+    "drawable":"lettera",
+    "submenu":"All Channels",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"",
         "provider":"youtube",
         "arguments":[
           "UCX_uPA_dGf7wXjuMEaSKLJA",
           "channel"
         ]
-   },
-   {
-        "title":"WAM India",
-        "drawable":"",
-        "submenu":"South HD - All In One",
-        "iap":false,
+      }
+    ]
+  },
+  {
+    "title":"WAM India",
+    "drawable":"letterw",
+    "submenu":"All Channels",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"",
         "provider":"youtube",
         "arguments":[
           "UCt7_pnSRPKU3bu2GqmgH8gQ",
           "channel"
         ]
-   },
-   {
-        "title":"Selectfix",
-        "drawable":"",
-        "submenu":"South HD - All In One",
-        "iap":false,
+      }
+    ]
+  },
+  {
+    "title":"Selectfix",
+    "drawable":"letters",
+    "submenu":"All Channels",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"",
         "provider":"youtube",
         "arguments":[
           "UC_D-oB4mVrFV__cY-99L-3w",
           "channel"
         ]
-   },
-   {
-        "title":"Cinekorn",
-        "drawable":"",
-        "submenu":"South HD - All In One",
-        "iap":false,
+      }
+    ]
+  },
+  {
+    "title":"Cinekorn",
+    "drawable":"letterc",
+    "submenu":"All Channels",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"",
         "provider":"youtube",
         "arguments":[
           "UCFk2qpStVlJTkgedostU4kQ",
           "channel"
         ]
-   },
-   {
-        "title":"RK Duggal",
-        "drawable":"",
-        "submenu":"South HD - All In One",
-        "iap":false,
+      }
+    ]
+  },
+  {
+    "title":"RK Duggal",
+    "drawable":"letterr",
+    "submenu":"All Channels",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"",
         "provider":"youtube",
         "arguments":[
           "UCjBwQ6M9QyCgO5Pp-TQRFUA",
           "channel"
         ]
-   },
-   {
-        "title":"AD Wise Media",
-        "drawable":"",
-        "submenu":"South HD - All In One",
-        "iap":false,
+      }
+    ]
+  },
+  {
+    "title":"AD Wise Media",
+    "drawable":"lettera",
+    "submenu":"All Channels",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"",
         "provider":"youtube",
         "arguments":[
           "UCSx_w4q5PkAOg9i45uMFHmA",
           "channel"
         ]
-   },
-   {
-        "title":"Zee Action Channel",
-        "drawable":"",
-        "submenu":"South HD - All In One",
-        "iap":false,
+      }
+    ]
+  },
+  {
+    "title":"Zee Action Channel",
+    "drawable":"letterz",
+    "submenu":"All Channels",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"",
         "provider":"youtube",
         "arguments":[
           "UCLJIMy2wrWsLuPKJxU-a_YQ",
           "channel"
         ]
-   },
-   {
+      }
+    ]
+  },
+  {
     "title":"Settings",
-    "drawable":"",
+    "drawable":"settings",
     "submenu":"Other",
     "iap":false,
     "tabs":[
@@ -191,7 +231,7 @@
   },
   {
     "title":"Rate this App",
-    "drawable":"",
+    "drawable":"rate",
     "submenu":"Other",
     "iap":false,
     "tabs":[
@@ -206,7 +246,7 @@
   },
   {
     "title":"More Apps",
-    "drawable":"",
+    "drawable":"more",
     "submenu":"Other",
     "iap":false,
     "tabs":[
@@ -220,8 +260,23 @@
     ]
   },
   {
+    "title":"Share",
+    "drawable":"share",
+    "submenu":"Other",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"",
+        "provider":"custom",
+        "arguments":[
+          "whatsapp: Download amazing app having All in One South HD Hindi Dubbed Movies from play store - https://play.google.com/store/apps/details?id=com.fzan.south","app"
+        ]
+      }
+    ]
+  },
+  {
     "title":"Privacy Policy",
-    "drawable":"",
+    "drawable":"privacy",
     "submenu":"Other",
     "iap":false,
     "tabs":[
